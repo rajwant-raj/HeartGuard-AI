@@ -1,6 +1,6 @@
 # ❤️ HeartGuard AI – Heart Disease Predictor
 
-HeartGuard AI is a machine learning-powered web application designed to assess cardiovascular disease risk using patient clinical parameters. Built with Scikit-learn and Streamlit, the system leverages a Random Forest classifier to provide real-time predictions through an interactive, dark-themed dashboard.
+HeartGuard AI Ver 1.0 is a machine learning-powered web application designed to assess cardiovascular disease risk using patient clinical parameters. Built with Scikit-learn and Streamlit, the system leverages a Random Forest classifier to provide real-time predictions through an interactive, dark-themed dashboard.
 
 ---
 
